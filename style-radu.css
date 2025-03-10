@@ -1,0 +1,8 @@
+.btn-success {
+    background-color: green;
+    color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
