@@ -1,8 +1,29 @@
+body {
+    background-color: grey;
+}
+
+.title-red {
+    color: red;
+}
+
+.title-blue {
+    color: blue;
+}
+
 .btn-primary {
     background-color:rgb(130, 55, 164);
     color: white;
     padding: 15px;
     border: none;
     border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn-primary-pill {
+    background-color:rgb(130, 55, 164);
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
     font-weight: bold;
 }
