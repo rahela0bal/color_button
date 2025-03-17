@@ -6,3 +6,12 @@
     border-radius: 5px;
     font-weight: bold;
 }
+
+.btn-success-pill {
+    background-color: green;
+    color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
+    font-weight: bold;
+}
