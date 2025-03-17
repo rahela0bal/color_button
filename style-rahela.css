@@ -7,3 +7,12 @@
     font-weight: bold;
 
 }
+.btn-secondary-pill{
+    background-color: #0000ff;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 35px;
+    font-weight: bold;
+
+}
